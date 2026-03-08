@@ -1,6 +1,6 @@
 # `🌐` ︲ Documentation TP : Installer et configurer un service DHCP
 
-Ce dépôt présente un guide complet pour la mise en place et la configuration d'un service DHCP (Dynamic Host Configuration Protocol) sous Windows Server 2025. Il couvre l'étude du contexte, l'installation du rôle, la création d'étendues, de plages d'exclusion, de réservations, ainsi que des observations réseau via Wireshark. Tu apprendras à gérer l'adressage IP dynamique dans un environnement d'entreprise simulé.
+Ce dépôt présente un guide complet pour la mise en place et la configuration d'un service DHCP (Dynamic Host Configuration Protocol) sous Windows Server 2025.
 
 ---
 
